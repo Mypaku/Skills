@@ -11,9 +11,12 @@
 		},
 		{
 			"path": "2.2"
+		},
+		{
+			"path": "2.3"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "2.2"
+		"liveServer.settings.multiRootWorkspaceName": "2.3"
 	}
 }
